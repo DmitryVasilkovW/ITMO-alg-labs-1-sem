@@ -1,4 +1,3 @@
-# ITMO_alg_labs_1_sem
 # ЛР 1
 # Task 1
 Последняя цифра
